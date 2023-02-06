@@ -1,0 +1,17 @@
+.mainPosition {
+  position: absolute;
+  left: 6%;
+  /* width: 93.9vw; */
+  transition: all 0.5s;
+}
+.mainActive {
+  position: absolute;
+  left: 19%;
+  width: 82vw;
+  transition: all 0.5s;
+}
+.icon_action {
+  color: #333;
+  font-size: 25px;
+  margin-right: 4px;
+}
